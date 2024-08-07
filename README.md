@@ -16,6 +16,7 @@ Für alle Teilnehmerinnen des ersten Camps gibt es ein Hockeycamp-T-Shirt. Beim 
 
 ## Organisation im Vorfeld
 Für uns hat es gut funktioniert, wenn jeweils eine Person für die einzelnen Camps verantwortlich ist. Kommunikation, Finanzen, Trainer- und Helfersuche haben wir gemeinsam gemacht, es gibt einfach sehr viel Überlappung.
+Legt Euch etwas für die online-Zusammenarbeit an - Miroboard, Jira, Google-Docs. Wichtig ist nur, dass Abrechnungsdaten und vor allem persönliche Daten der Teilnehmer nicht öffentlich zugänglich sind.
 
 * Herbst des Vorjahres
   * Die Verantwortlichen fürs Folgejahr finden
@@ -44,14 +45,51 @@ Für uns hat es gut funktioniert, wenn jeweils eine Person für die einzelnen Ca
   *  Mit dem Caterer die genauen Teilnehmerzahlen, Belieferung und Uhrzeiten klären.
   *  Helferlisten veröffentlichen
   *  An Bezahlungen erinnern
-  *  Verträge für die externen Trainer aufsetzen. Vorlagen hat der Kassenwart.
+  *  Verträge für die externen Trainer aufsetzen. Vorlagen hat der Kassenwart und idealerweise schon vom Vorstand unterschreiben lassen
+* August
+  * Camp!
+  * Nachbesprechung
+  * Finanzen ordnen
+    
 ## Camp 2
-Wir brauchen fürs zweite Camp erfahrene Trainer und möchten auch gerne neue Impulse für unsere Jugendlichen haben. Daher
+Wir brauchen fürs zweite Camp erfahrene Trainer und möchten auch gerne neue Impulse für unsere Jugendlichen haben. Daher sind externe Trainer für das Camp wichtig. Die sportliche Leitung sollte ebenfalls eine erfahrene Trainerin sein.
+Die 3 Tage haben einen vollen Fokus aufs Hockey, es spielt sich fast komplett auf den beiden Spielfeldern ab. Da alle Teilnehmer älter sind und das Camp deutlich kleiner, sind Essensausgabe und die Pausen einfacher zu organisieren. Wir brauchen nur einen Tagesverantwortlichen und 1 bis 2 Helfer.
+
+Grober Tagesablauf:
+* Tagesverantwortlicher kommt um 08:00, aufschließen und Kaffee
+* Campbeginn um 09:00, Jugendliche können ab 08:30 kommen. Wir führen keine Anwesenheitsliste
+* Am ersten Tag können Jugendliche noch T-Shirts abholen und bezahlen
+* Obstpause ~ 10:30
+* Mittagessen ~ 13:00
+* Eispause ~ 14:30
+* Campende um 16:00, Teilnehmer können aber noch auf dem Gelände bleiben
+* Tagesverantwortlicher kann gegen 16:30 gehen, dann noch Einkaufen für den nächsten Tag im Camp
 
 ## Finanzen
+* Anzahlungen verlangen! Nachverfolgen von Eingängen. Kulant, wenn Teilnehmer krankheitsbedingt absagen müssen
+* Eigenes Konto / paypal.
+* Ausgabenbelege fotografieren oder sammeln.
+* Offizielle Rechnung vom Caterer
+* Zwischenkalkulation mit Kassenwart durchschauen, mit Vorjahreskalkulation vergleichen
+
+Ausgaben:
+* T-Shirts
+* Eis, Obst, Tee, Kaffee...
+* Ausflug / Event am Freitag des ersten Hockeycamps
+* Trainervergütung
+* Kleines Dankeschön an sportliche Leitung und externe Trainer
+* Zeltmiete
+* Caterer
+
+## Einkäufe
+* Sonnencreme, Mückenschutz (vom JÜT übrig?)
+* Eis: Ein Eis pro Person pro Tag, ungefähr 50:50 zwischen Wassereis und Magnum/Nogger... Angebote von Supermärkten sind günstiger als Metro!
+* Obst: Camp 2 ~ 150-200g Obst pro Person + Wassermelonen. Täglich nach Bedarf nachkaufen
 
 ## Artefakte
 * Infoschreiben in den Verein
 * Anmeldebogen mit Unverträglichkeiten, Notfallnummern, T-Shirt-Größe etc.
 * Kalkulationsbogen ohne Zahlen
 * Google-Docs für Helferschichten
+* Kontakt Sportkreisjugend
+* Spülmaschinenbedienung

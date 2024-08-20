@@ -47,10 +47,32 @@ Legt Euch etwas für die online-Zusammenarbeit an - Miroboard, Jira, Google-Docs
   *  An Bezahlungen erinnern
   *  Verträge für die externen Trainer aufsetzen. Vorlagen hat der Kassenwart und idealerweise schon vom Vorstand unterschreiben lassen
 * August
-  * Camp!
+  * Aufbau
+  * Camp 1! Camp 2!
+  * Abbau
   * Nachbesprechung
   * Finanzen ordnen
-    
+
+## Auf- und Abbau
+Das ist kein großes Ding, aber ohne ein paar Helfer geht es nicht. Für das zweite Camp kann man auch auf die Zelte verzichten.
+* Wochenende vor dem Camp
+  * Leitung: Obst, Eis und anderes fürs Camp einkaufen.
+  * Zelte aufbauen (idealerweise 4 Personen)
+  * Bierbänke und Tische zwischen Hüttle und Zelten aufbauen
+  * Bierbänke für die Essensausgabe auf der Hüttleterasse
+  * Hüttle durchschauen, dass alle Kühlschränke laufen, Trockentücher vorhanden sind
+  * Optional: großen Pavillon auf der Südseite des Hüttlevordachs aufbauen. Selbst beim Hockeycamp I passen dann fast alle Spieler drunter bei Regen.
+  * Optional: Waschrinnen aus dem Keller der Räume vor den Umkleiden anschließen. Abwasserleitungen liegen im gleichen Keller. Nettes Angebot von uns, aber von den Spielern eigentlich kaum genutzt...
+  * Optional: Vielleicht wäscht jemand die Leibchen fürs Camp
+* Zwischen den Camps
+  * Leitung: Obst, Eis und anderes fürs Camp einkaufen.
+  * Je nach Wetter und Interesse kann man schon alle Zelte abbauen (4 Personen)
+* Nach den Camps
+  *  Zelte abbauen (4 Personen)
+  *  Bierbänke und -tische abbauen
+  *  Kühlschränke im Hüttle in den Hüttlekeller runtertragen. Sie waren seit dem JÜT oben.
+  *  Hüttle feudeln - zwischendurch auch ab und zu...
+  *  Essensreste versorgen. Falls noch Reste vom JÜT übrig waren, Inventurinfo an Hüttleverantwortlichen und JÜT-Team geben.
 ## Camp 2
 Wir brauchen fürs zweite Camp erfahrene Trainer und möchten auch gerne neue Impulse für unsere Jugendlichen haben. Daher sind externe Trainer für das Camp wichtig. Die sportliche Leitung sollte ebenfalls eine erfahrene Trainerin sein.
 Die 3 Tage haben einen vollen Fokus aufs Hockey, es spielt sich fast komplett auf den beiden Spielfeldern ab. Da alle Teilnehmer älter sind und das Camp deutlich kleiner, sind Essensausgabe und die Pausen einfacher zu organisieren. Wir brauchen nur einen Tagesverantwortlichen und 1 bis 2 Helfer.
@@ -85,6 +107,7 @@ Ausgaben:
 * Sonnencreme, Mückenschutz (vom JÜT übrig?)
 * Eis: Ein Eis pro Person pro Tag, ungefähr 50:50 zwischen Wassereis und Magnum/Nogger... Angebote von Supermärkten sind günstiger als Metro!
 * Obst: Camp 2 ~ 150-200g Obst pro Person + Wassermelonen. Täglich nach Bedarf nachkaufen
+* Eisteebeutel zum Kaltaufsetzen, Biozitronen für Zitronenwasser
 
 ## Artefakte
 * Infoschreiben in den Verein

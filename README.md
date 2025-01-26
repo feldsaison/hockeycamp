@@ -73,19 +73,42 @@ Das ist kein großes Ding, aber ohne ein paar Helfer geht es nicht. Für das zwe
   *  Kühlschränke im Hüttle in den Hüttlekeller runtertragen. Sie waren seit dem JÜT oben.
   *  Hüttle feudeln - zwischendurch auch ab und zu...
   *  Essensreste versorgen. Falls noch Reste vom JÜT übrig waren, Inventurinfo an Hüttleverantwortlichen und JÜT-Team geben.
+
+## Tagesablauf
+Die Tagesabläufe unterscheiden sich von Camp 1 zu Camp 2 nicht besonders.
+
+### Grober Tagesablauf:
+* Tagesverantwortlicher kommt um 08:00
+  * Hüttle aufschließen und Kaffee kochen
+  * Getränke für Kinder bereit stellen, bei kühleren Temperaturen warmen Tee / Kakao anbieten
+  * Es ist sehr ratsam, keinen Zucker hinzustellen!
+  * Mundschutz zum Verkauf anbieten (für Kinder, die keinen haben oder nicht dabei) und das Anpassen des Mundschutzes ebenfalls anbieten
+* Campbeginn um 09:00
+  * Jugendliche können ab 08:30 kommen.
+  * Wir führen keine Anwesenheitsliste, die Kinder sollen sich bei ihren Trainern melden.
+  * Am ersten Tag können Jugendliche noch T-Shirts abholen und bezahlen
+* Obstpause ~ 10:30
+  * eine halbe Stunde vorher das Obst schneiden
+  * in den Alu-Wannen anbieten
+  * grössere Stücke für auf die Hand haben sich bewährt  
+* Mittagessen ~ 13:00
+  * Essen wird vom Caterer angeliefert, die Alu-Wannen und Warmhalte-Boxen vom Vortag zur Abholung bereit halten
+  * Teller und Besteck zur Verfügung stellen
+  * Essen ausgeben
+  * Teller und Besteck spülen (Geschirrspülmaschine)
+  * die vom Caterer verwendeten Alu-Wannen ausspülen ist ausreichend
+  * Obst und Eis für nächsten Tag prüfen und dem nächsten Tagesverantwortlichen mitteilen, so dass dieser eventuell noch Besorgungen vornehmen kann
+* Eispause ~ 14:30
+* Camp-Ende um 16:00
+  * Teilnehmer können aber noch auf dem Gelände bleiben
+  * über den Platz schauen, ob etwas vergessen wurde (Fundkiste)
+  * Müll sammeln und wegbringen, was auf den Kompost darf, steht auf einem Merkblatt im Hüttle
+* Tagesverantwortlicher kann gegen 16:30 gehen
+
+
 ## Camp 2
 Wir brauchen fürs zweite Camp erfahrene Trainer und möchten auch gerne neue Impulse für unsere Jugendlichen haben. Daher sind externe Trainer für das Camp wichtig. Die sportliche Leitung sollte ebenfalls eine erfahrene Trainerin sein.
 Die 3 Tage haben einen vollen Fokus aufs Hockey, es spielt sich fast komplett auf den beiden Spielfeldern ab. Da alle Teilnehmer älter sind und das Camp deutlich kleiner, sind Essensausgabe und die Pausen einfacher zu organisieren. Wir brauchen nur einen Tagesverantwortlichen und 1 bis 2 Helfer.
-
-Grober Tagesablauf:
-* Tagesverantwortlicher kommt um 08:00, aufschließen und Kaffee
-* Campbeginn um 09:00, Jugendliche können ab 08:30 kommen. Wir führen keine Anwesenheitsliste
-* Am ersten Tag können Jugendliche noch T-Shirts abholen und bezahlen
-* Obstpause ~ 10:30
-* Mittagessen ~ 13:00
-* Eispause ~ 14:30
-* Campende um 16:00, Teilnehmer können aber noch auf dem Gelände bleiben
-* Tagesverantwortlicher kann gegen 16:30 gehen, dann noch Einkaufen für den nächsten Tag im Camp
 
 ## Finanzen
 * Anzahlungen verlangen! Nachverfolgen von Eingängen. Kulant, wenn Teilnehmer krankheitsbedingt absagen müssen
